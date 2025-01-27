@@ -1,5 +1,5 @@
 from .. import *
-from ..modules.func import *
+
 from ..modules.utils import *
 
 from pyrogram import *
