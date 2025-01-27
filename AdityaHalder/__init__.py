@@ -52,8 +52,7 @@ SUPUSER = var.SUPUSER
 SUDOERS = var.SUDOERS
 
 
-from .modules.func import eor
-eor = eor
+
 
 from .modules.misc import sudo_user_only
 sudo_user_only = sudo_user_only
